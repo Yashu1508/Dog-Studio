@@ -13,9 +13,3 @@ A 3D interactive website inspired by Dogstudio, built using **Three.js** for smo
 - Responsive canvas integration
 - Optimized rendering for performance
 
-## 📦 Setup & Run
-```bash
-git clone https://github.com/your-username/dogstudio-3d-clone.git
-cd dogstudio-3d-clone
-npm install
-npm run dev
